@@ -8,6 +8,4 @@ Simple TDEE (Total Daily Energy Expenditure) Calculator allows you to calculate 
 
 This app uses the standard Mifflin - St. Jeor Formula or Katch Formula (to compute with bodyfat) to calculate BMR. The Katch formula is much more accurate but requires your bodyfat percentage. Please provide your bodyfat percentage to receive the most accurate calculation.
 
-### Link to Simple TDEE Calculator on the Play Store: 
-
-https://play.google.com/store/apps/details?id=tdde.online.conorgildea.myapplication&hl=en
+### **[Link to Simple TDEE Calculator on the Play Store](https://play.google.com/store/apps/detailsid=tdde.online.conorgildea.myapplication&hl=en)**
