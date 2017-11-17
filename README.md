@@ -2,7 +2,7 @@
 Explorations in Android Development
 ***
 Made and published this application within six hours to get started into Android Development.
-<center><img src="https://lh3.googleusercontent.com/rH-9qqS19DdwqU9r2I6r9Fgtrt2Sxt-hKSqYsD1q82SWb4hanwsUdaDa2FwcRIVH4g-p=w300-rw" width="240" height="240"></center>
+<center><img src="https://github.com/CSIGildea/Simple-TDEE-Calculator---Android/blob/master/simpletdee.png?raw=true" width="240" height="240"></center>
 
 Simple TDEE (Total Daily Energy Expenditure) Calculator allows you to calculate your BMI,BMR and TDEE.
 
